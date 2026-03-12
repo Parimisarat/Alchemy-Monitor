@@ -1,0 +1,61 @@
+[3:23:04 pm] MONITOR v2.0 ACTIVE ON http://localhost:3001
+[3:23:04 pm] --- STARTING HEALTH CHECK ---
+[3:23:05 pm] Ethereum RPC: OK (eth.llamarpc.com)
+[3:23:05 pm] Polygon RPC: FAIL (polygon.llamarpc.com) - getaddrinfo ENOTFOUND polygon.llamarpc.com
+[3:23:05 pm] Polygon RPC: FAIL (polygon-rpc.com) - HTTP 401
+[3:23:05 pm] Arbitrum RPC: OK (arb1.arbitrum.io)
+[3:23:06 pm] Optimism RPC: OK (mainnet.optimism.io)
+[3:23:07 pm] World Chain: OK (worldchain-mainnet.g.alchemy.com)
+[3:23:07 pm] Cycle finished: Partially Active
+[3:24:04 pm] --- STARTING HEALTH CHECK ---
+[3:24:04 pm] Ethereum RPC: OK (eth.llamarpc.com)
+[3:24:04 pm] Polygon RPC: FAIL (polygon.llamarpc.com) - getaddrinfo ENOTFOUND polygon.llamarpc.com
+[3:24:05 pm] Polygon RPC: FAIL (polygon-rpc.com) - HTTP 401
+[3:24:05 pm] Arbitrum RPC: OK (arb1.arbitrum.io)
+[3:24:06 pm] Optimism RPC: OK (mainnet.optimism.io)
+[3:24:06 pm] World Chain: OK (worldchain-mainnet.g.alchemy.com)
+[3:24:06 pm] Cycle finished: Partially Active
+[3:25:04 pm] --- STARTING HEALTH CHECK ---
+[3:25:04 pm] Ethereum RPC: OK (eth.llamarpc.com)
+[3:25:04 pm] Polygon RPC: FAIL (polygon.llamarpc.com) - getaddrinfo ENOTFOUND polygon.llamarpc.com
+[3:25:04 pm] Polygon RPC: FAIL (polygon-rpc.com) - HTTP 401
+[3:25:05 pm] Arbitrum RPC: OK (arb1.arbitrum.io)
+[3:25:05 pm] Optimism RPC: OK (mainnet.optimism.io)
+[3:25:06 pm] World Chain: OK (worldchain-mainnet.g.alchemy.com)
+[3:25:06 pm] Cycle finished: Partially Active
+[3:26:04 pm] --- STARTING HEALTH CHECK ---
+[3:26:04 pm] Ethereum RPC: OK (eth.llamarpc.com)
+[3:26:04 pm] Polygon RPC: FAIL (polygon.llamarpc.com) - getaddrinfo ENOTFOUND polygon.llamarpc.com
+[3:26:04 pm] Polygon RPC: FAIL (polygon-rpc.com) - HTTP 401
+[3:26:05 pm] Arbitrum RPC: OK (arb1.arbitrum.io)
+[3:26:05 pm] Optimism RPC: OK (mainnet.optimism.io)
+[3:26:05 pm] World Chain: OK (worldchain-mainnet.g.alchemy.com)
+[3:26:05 pm] Cycle finished: Partially Active
+[3:26:44 pm] MONITOR v2.0 ACTIVE ON http://localhost:3001
+[3:26:44 pm] --- STARTING HEALTH CHECK ---
+[3:26:44 pm] Ethereum RPC: OK (eth.llamarpc.com)
+[3:26:45 pm] Polygon RPC: FAIL (polygon-rpc.com) - HTTP 401
+[3:26:45 pm] Polygon RPC: FAIL (rpc-mainnet.maticvigil.com) - HTTP 403
+[3:26:46 pm] Polygon RPC: OK (polygon-bor.publicnode.com)
+[3:26:46 pm] Arbitrum RPC: OK (arb1.arbitrum.io)
+[3:26:46 pm] Optimism RPC: OK (mainnet.optimism.io)
+[3:26:47 pm] World Chain: OK (worldchain-mainnet.g.alchemy.com)
+[3:26:47 pm] Cycle finished: All Systems Active
+[3:27:44 pm] --- STARTING HEALTH CHECK ---
+[3:27:44 pm] Ethereum RPC: OK (eth.llamarpc.com)
+[3:27:45 pm] Polygon RPC: FAIL (polygon-rpc.com) - HTTP 401
+[3:27:45 pm] Polygon RPC: FAIL (rpc-mainnet.maticvigil.com) - HTTP 403
+[3:27:45 pm] Polygon RPC: OK (polygon-bor.publicnode.com)
+[3:27:46 pm] Arbitrum RPC: OK (arb1.arbitrum.io)
+[3:27:46 pm] Optimism RPC: OK (mainnet.optimism.io)
+[3:27:47 pm] World Chain: OK (worldchain-mainnet.g.alchemy.com)
+[3:27:47 pm] Cycle finished: All Systems Active
+[3:28:44 pm] --- STARTING HEALTH CHECK ---
+[3:28:44 pm] Ethereum RPC: OK (eth.llamarpc.com)
+[3:28:45 pm] Polygon RPC: FAIL (polygon-rpc.com) - HTTP 401
+[3:28:46 pm] Polygon RPC: FAIL (rpc-mainnet.maticvigil.com) - HTTP 403
+[3:28:46 pm] Polygon RPC: OK (polygon-bor.publicnode.com)
+[3:28:46 pm] Arbitrum RPC: OK (arb1.arbitrum.io)
+[3:28:47 pm] Optimism RPC: OK (mainnet.optimism.io)
+[3:28:47 pm] World Chain: OK (worldchain-mainnet.g.alchemy.com)
+[3:28:47 pm] Cycle finished: All Systems Active
