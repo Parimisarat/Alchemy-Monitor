@@ -65,6 +65,16 @@ async function update() {
     
     statusData.history.unshift({timestamp: statusData.lastUpdate, status: statusData.overallStatus});
     if (statusData.history.length > 10) statusData.history.pop();
+
+    // Populate debug logs
+    const time = new Date(statusData.lastUpdate).toLocaleTimeString();
+    results.forEach(r => {
+        const icon = r.status === 'Operational' ? '✅' : '❌';
+        statusData.logs.unshift(`[${time}] ${icon} ${r.name}: ${r.status} (${r.latency})${r.error ? ' — ' + r.error : ''}`);
+    });
+    statusData.logs.unshift(`[${time}] 🔄 Check cycle complete — ${statusData.overallStatus}`);
+    if (statusData.logs.length > 50) statusData.logs = statusData.logs.slice(0, 50);
+
     console.log(`Update complete: ${statusData.overallStatus}`);
 }
 
