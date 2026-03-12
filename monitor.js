@@ -46,7 +46,7 @@ async function update() {
     console.log('Update started...');
     const eps = {
         'Ethereum RPC': 'https://cloudflare-eth.com',
-        'Polygon RPC': 'https://polygon-rpc.com',
+        'Polygon RPC': 'https://rpc.ankr.com/polygon',
         'Arbitrum RPC': 'https://arb1.arbitrum.io/rpc',
         'Optimism RPC': 'https://mainnet.optimism.io'
     };
